@@ -1,0 +1,32 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aswin Chakkarapandian | Portfolio</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+</head>
+<body class="bg-gray-100 text-gray-800 font-sans">
+  <!-- Header -->
+  <header class="bg-blue-600 text-white p-6 shadow-md">
+    <div class="container mx-auto flex flex-col md:flex-row items-center justify-between">
+      <div class="flex items-center space-x-4">
+        <img src="your-photo.jpg" alt="Aswin" class="w-20 h-20 rounded-full border-4 border-white shadow-lg">
+        <div>
+          <h1 class="text-2xl font-bold">Aswin Chakkarapandian</h1>
+          <p class="text-sm" id="typed"></p>
+        </div>
+      </div>
+      <div class="mt-4 md:mt-0">
+        <a href="mailto:aswindepa43@gmail.com" class="bg-white text-blue-600 px-4 py-2 rounded-lg font-semibold shadow hover:bg-gray-200">Contact Me</a>
+      </div>
+    </div>
+  </header>  <!-- About -->  <section class="container mx-auto p-6">
+    <h2 class="text-xl font-bold text-blue-600 mb-4">About Me</h2>
+    <p class="leading-relaxed">Passionate Computer Science student with expertise in programming, networking, and multimedia tools. Strong leadership experience, having served in multiple departmental and club roles. Seeking to contribute to impactful projects as a software developer.</p>
+  </section>  <!-- Skills -->  <section class="container mx-auto p-6 grid md:grid-cols-2 gap-6">
+    <div class="bg-white p-6 rounded-2xl shadow">
+      <h2 class="text-xl font-bold text-blue-600 mb-4">Technical Skills</h2>
+      <ul class="list-disc ml-6 space-y-2">
+        <li><strong>Programming:</strong> HTML, CSS, Python, Java</li>
+        <li><strong>Software & Tools:</strong> Adobe After Effects, Photoshop, Premiere Pro, Cap
